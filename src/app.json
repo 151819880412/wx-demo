@@ -1,5 +1,6 @@
 {
   "pages":[
-    "pages/firstView/main"
+    "pages/firstView/main",
+    "pages/index/main"
   ]
 }

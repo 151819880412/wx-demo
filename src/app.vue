@@ -1,21 +1,9 @@
-<template>
-  <div class=''></div>
-</template>
+
 <script>
-export default {
-  name: '',
-  props: {},
-  data() {
-    return {};
-  },
-  created() {},
-  mounted() {},
-  computed: {},
-  methods: {},
-  watch: {},
-  components: {},
-  beforeDestroy() {}
-};
+export default {};
 </script>
 <style >
+page{
+  height: 100%;
+}
 </style>
