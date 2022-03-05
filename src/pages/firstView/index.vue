@@ -33,6 +33,12 @@ export default {
 };
 </script>
 <style >
+page{
+  height: 100%;
+}
+.firstViewContainer{
+  height: 100%;
+}
 .firstViewContainer swiper{
   width: 100%;
   height: 100%;
